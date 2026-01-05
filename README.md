@@ -4,8 +4,7 @@
 🌍 Nigeria | Building web apps and exploring new tech  
 
 ## 🔭 What I’m working on
-- **MovieAPP** – Check trending movies
-- **Geegstack** – Learn MERN stack web development
+- **Streamify** – language Exchange Platform Real time chat App and video call
 - Personal portfolio and projects
 
 ## 💻 Tech & Tools
