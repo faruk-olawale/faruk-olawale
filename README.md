@@ -9,7 +9,7 @@
 - Personal portfolio and projects
 
 ## 💻 Tech & Tools
-HTML • CSS • JavaScript • TypeScript • React • Node.js • Express • MongoDB • Git • GitHub
+HTML • CSS • JavaScript • TypeScript • React • Node.js • Express • MongoDB 
 
 ## 📫 Connect with me
 - Portfolio: [my-portfolio](https://my-portfolio-ten-neon-26.vercel.app/)
