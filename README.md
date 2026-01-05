@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋, I'm Ismail Faruk Olawale
 
-<!--
-**faruk-olawale/faruk-olawale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Full-stack web developer in training | MERN enthusiast  
+🌍 Nigeria | Building web apps and exploring new tech  
 
-Here are some ideas to get you started:
+## 🔭 What I’m working on
+- **MovieAPP** – Check trending movies
+- **Geegstack** – Learn MERN stack web development
+- Personal portfolio and projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech & Tools
+HTML • CSS • JavaScript • TypeScript • React • Node.js • Express • MongoDB • Git • GitHub
+
+## 📫 Connect with me
+- Portfolio: [my-portfolio](https://my-portfolio-ten-neon-26.vercel.app/)
+- Twitter/X: [@farukolawale3][my-portfolio-ten-neon-26.vercel.app](https://my-portfolio-ten-neon-26.vercel.app/)
+- LinkedIn: [Ismail Faruk][(https://linkedin.com/in/faruk-ismail-4812213a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)](https://www.linkedin.com/in/faruk-ismail-4812213a0/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
+Thanks for visiting! ⭐
