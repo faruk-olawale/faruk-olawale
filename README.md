@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ismail Faruk Olawale
 
-🎓 Full-stack web developer in training | MERN enthusiast  
+🎓 Full-stack web developer in training | MERN Stack  
 🌍 Nigeria | Building web apps and exploring new tech  
 
 ## 🔭 What I’m working on
