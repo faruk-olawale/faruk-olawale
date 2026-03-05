@@ -1,18 +1,40 @@
-# Hi 👋, I'm Ismail Faruk Olawale
+Hi 👋, I'm Ismail Faruk Olawale
 
-🎓 Full-stack web developer in training | MERN Stack  
-🌍 Nigeria | Building web apps and exploring new tech  
+🎓 Computer Science Student | MERN Stack Developer
+🌍 Based in Nigeria | Building scalable real-world applications
 
-## 🔭 What I’m working on
-- **Streamify** – language Exchange Platform Real time chat App and video call
-- Personal portfolio and projects
+I enjoy turning ideas into production-ready web applications and solving real problems with clean architecture.
 
-## 💻 Tech & Tools
-HTML • CSS • JavaScript • TypeScript • React • Node.js • Express • MongoDB 
+🚀 Currently Building
+🛠 ToolShare Africa
 
-## 📫 Connect with me
-- Portfolio: [my-portfolio](https://my-portfolio-ten-neon-26.vercel.app/)
-- Twitter/X: [@farukolawale3][my-portfolio-ten-neon-26.vercel.app](https://my-portfolio-ten-neon-26.vercel.app/)
-- LinkedIn: [Ismail Faruk][(https://linkedin.com/in/faruk-ismail-4812213a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)](https://www.linkedin.com/in/faruk-ismail-4812213a0/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+A peer-to-peer equipment rental marketplace for the African market.
 
-Thanks for visiting! ⭐
+Tool owners list equipment for rent
+
+Renters search, book, and pay securely
+
+Built with full booking logic, authentication, and payment integration
+
+Designed to scale from MVP to multi-country expansion
+
+💬 Streamify
+
+Language exchange platform with:
+
+Real-time chat
+
+Video calling
+
+Modern responsive UI
+
+💻 Tech Stack
+
+Frontend:
+React • TypeScript • Tailwind CSS • JavaScript
+
+Backend:
+Node.js • Express • MongoDB • Mongoose • REST APIs
+
+Tools & Concepts:
+JWT Authentication • Role-Based Access • Booking Systems • Payment Integration • Git • Deployment (Vercel / Render)
