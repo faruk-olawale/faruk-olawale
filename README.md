@@ -1,11 +1,11 @@
-Hi 👋, I'm Ismail Faruk Olawale
+Hi , I'm Ismail Faruk Olawale
 
 🎓 Computer Science Student | MERN Stack Developer
 🌍 Based in Nigeria | Building scalable real-world applications
 
 I enjoy turning ideas into production-ready web applications and solving real problems with clean architecture.
 
-🚀 Currently Building
+ Currently Building
 🛠 ToolShare Africa
 
 A peer-to-peer equipment rental marketplace for the African market.
