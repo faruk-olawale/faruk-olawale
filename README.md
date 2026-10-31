@@ -1,53 +1,49 @@
-Hi, I’m Ismail Faruk Olawale 
+Hi, I’m Ismail Faruk Olawale 👋
 
-Software Developer | Computer Science Graduate | MERN Stack Developer
+Software Developer | Full-Stack Engineer | Cloud & DevOps Enthusiast
 
 🇳🇬 Based in Nigeria
 
-I enjoy building software that solves real-world problems, designing scalable application architectures, and turning ideas into functional products.
+I’m a Computer Science graduate passionate about building practical software solutions, designing scalable applications, and exploring the infrastructure that powers modern software systems.
 
-My primary focus is full-stack web development, with a growing interest in cloud infrastructure, containerization, and DevOps.
-
- What I’m Working On
-
-ToolShare Africa – A peer-to-peer equipment rental marketplace designed for the African market.
-Building solutions around equipment listings, rental workflows, bookings, and marketplace management.
-
-Streamify – A language exchange platform that connects people through real-time communication, chat, and video calling.
-
-Smart Faculty AR Navigation – A mobile navigation solution designed to help users navigate university facilities and other campus locations.
+My interests span full-stack development, backend engineering, cloud computing, DevOps, and machine learning. I enjoy solving problems, learning new technologies, and turning ideas into functional products.
 
  Technical Skills
 
 Languages: JavaScript, TypeScript, Python, SQL
 
-Frontend: React.js, Next.js, React Native, Tailwind CSS
+Frontend: React.js, Next.js, React Native, Tailwind CSS, HTML5, CSS3
 
 Backend: Node.js, Express.js, REST APIs, MongoDB, Mongoose, PostgreSQL, Prisma
 
-Development Tools: Git, GitHub, VS Code, Postman
+Cloud & DevOps: AWS, Linux, Bash Scripting, Docker, Kubernetes, Terraform, GitHub Actions, CI/CD
 
-Cloud & DevOps: Linux, Docker, Kubernetes (Learning), CI/CD concepts, Deployment and Application Hosting (Vercel, Render)
+Monitoring & Observability: Prometheus, Grafana, ELK Stack
 
-Other: JWT Authentication, Role-Based Access Control, Real-time Communication, Database Design, API Integration
+Machine Learning: Machine Learning Fundamentals, Supervised Learning, Classification, Random Forest, Data Preprocessing
+
+Tools: Git, GitHub, VS Code, Postman, Vercel, Render
 
  Currently Learning
 
-* Kubernetes and container orchestration
-* Cloud Engineering and DevOps practices
-* Backend architecture and scalable systems
-* Python for data science and machine learning
+* AWS Cloud Infrastructure
+* Kubernetes & Container Orchestration
+* Infrastructure as Code with Terraform
+* CI/CD Automation and Cloud Deployment
+* Monitoring and Logging
 
- My Interests
+ Areas of Interest
 
 * Software Engineering
-* Backend Development
-* Cloud Computing & Infrastructure
-* DevOps and Automation
-* Building products that solve practical problems
+* Backend & Full-Stack Development
+* Cloud Computing & DevOps
+* Infrastructure Automation
+* Machine Learning & Artificial Intelligence
 
 🤝 Let’s Connect
 
-I’m always open to collaborating on interesting projects, learning from other developers, and contributing to meaningful software solutions.
+* GitHub: faruk-olawale
+* LinkedIn: Connect with me
+* Portfolio: Visit my portfolio
 
-GitHub • LinkedIn • Portfolio
+“Building software, understanding infrastructure, and continuously learning.”
