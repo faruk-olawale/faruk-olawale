@@ -1,40 +1,53 @@
-Hi , I'm Ismail Faruk Olawale
+Hi, I’m Ismail Faruk Olawale 
 
-🎓 Computer Science Student | MERN Stack Developer
-🌍 Based in Nigeria | Building scalable real-world applications
+Software Developer | Computer Science Graduate | MERN Stack Developer
 
-I enjoy turning ideas into production-ready web applications and solving real problems with clean architecture.
+🇳🇬 Based in Nigeria
 
- Currently Building
-🛠 ToolShare Africa
+I enjoy building software that solves real-world problems, designing scalable application architectures, and turning ideas into functional products.
 
-A peer-to-peer equipment rental marketplace for the African market.
+My primary focus is full-stack web development, with a growing interest in cloud infrastructure, containerization, and DevOps.
 
-Tool owners list equipment for rent
+ What I’m Working On
 
-Renters search, book, and pay securely
+ToolShare Africa – A peer-to-peer equipment rental marketplace designed for the African market.
+Building solutions around equipment listings, rental workflows, bookings, and marketplace management.
 
-Built with full booking logic, authentication, and payment integration
+Streamify – A language exchange platform that connects people through real-time communication, chat, and video calling.
 
-Designed to scale from MVP to multi-country expansion
+Smart Faculty AR Navigation – A mobile navigation solution designed to help users navigate university facilities and other campus locations.
 
-💬 Streamify
+ Technical Skills
 
-Language exchange platform with:
+Languages: JavaScript, TypeScript, Python, SQL
 
-Real-time chat
+Frontend: React.js, Next.js, React Native, Tailwind CSS
 
-Video calling
+Backend: Node.js, Express.js, REST APIs, MongoDB, Mongoose, PostgreSQL, Prisma
 
-Modern responsive UI
+Development Tools: Git, GitHub, VS Code, Postman
 
-💻 Tech Stack
+Cloud & DevOps: Linux, Docker, Kubernetes (Learning), CI/CD concepts, Deployment and Application Hosting (Vercel, Render)
 
-Frontend:
-React • TypeScript • Tailwind CSS • JavaScript
+Other: JWT Authentication, Role-Based Access Control, Real-time Communication, Database Design, API Integration
 
-Backend:
-Node.js • Express • MongoDB • Mongoose • REST APIs
+ Currently Learning
 
-Tools & Concepts:
-JWT Authentication • Role-Based Access • Booking Systems • Payment Integration • Git • Deployment (Vercel / Render)
+* Kubernetes and container orchestration
+* Cloud Engineering and DevOps practices
+* Backend architecture and scalable systems
+* Python for data science and machine learning
+
+ My Interests
+
+* Software Engineering
+* Backend Development
+* Cloud Computing & Infrastructure
+* DevOps and Automation
+* Building products that solve practical problems
+
+🤝 Let’s Connect
+
+I’m always open to collaborating on interesting projects, learning from other developers, and contributing to meaningful software solutions.
+
+GitHub • LinkedIn • Portfolio
