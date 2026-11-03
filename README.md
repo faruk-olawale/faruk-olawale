@@ -1,4 +1,4 @@
-Hi, I’m Ismail Faruk Olawale 👋
+Hi, I’m Ismail Faruk Olawale 
 
 Software Developer | Full-Stack Engineer | Cloud & DevOps Enthusiast
 
