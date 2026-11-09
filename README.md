@@ -40,7 +40,7 @@ Tools: Git, GitHub, VS Code, Postman, Vercel, Render
 * Infrastructure Automation
 * Machine Learning & Artificial Intelligence
 
-🤝 Let’s Connect
+ Let’s Connect
 
 * GitHub: faruk-olawale
 * LinkedIn: Connect with me
